@@ -25,8 +25,6 @@ chat about this in here
  - [Learn HTML on your Mobile]( https://play.google.com/store/apps/details?id=com.sololearn.htmltrial&hl=en)
  - [Learn CSS on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
  
- <a href="example.com" target="_blank">Learn CSS on your Mobile</a>
-
 
 ## Advanced CSS
 
@@ -37,4 +35,5 @@ chat about this in here
 
 
 ## HTML & CSS Videos
-https://thenewboston.com/videos.php?cat=43
+
+- [The New Boston - HTML ](https://thenewboston.com/videos.php?cat=43)
