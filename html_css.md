@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/html5-css3.png">
 
 # HTML & CSS
 
@@ -36,3 +36,5 @@ chat about this in here
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 
+## HTML & CSS Videos
+https://thenewboston.com/videos.php?cat=43
