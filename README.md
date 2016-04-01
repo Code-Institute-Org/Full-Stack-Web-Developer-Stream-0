@@ -11,8 +11,6 @@ Get the fundamental skills in place before taking our Full Stack Web Developer C
 - [Welcome!](overview.md)
 - [Policies](policies.md)
 - [Contact Us](contact-and-support-list.md)
-- [Introductory Sessions](intro-session.md)
-- [Peer Reviews](peer-review.md)
 - [Reflections](reflections.md)
 - [Accountability Groups](accountability-groups.md)
 - [Office Hours](office-hours.md)
@@ -22,6 +20,7 @@ Get the fundamental skills in place before taking our Full Stack Web Developer C
 - [HTML & CSS](html_css.md)
 - [JavaScript](javascript.md)
 - [Python](python.md)
+- [Git](git.md)
 
 
 ## Important Resources
