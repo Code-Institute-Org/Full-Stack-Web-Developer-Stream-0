@@ -25,7 +25,7 @@ chat about this in here
  - [Learn HTML on your Mobile]( https://play.google.com/store/apps/details?id=com.sololearn.htmltrial&hl=en)
  - [Learn CSS on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
  
- <a href="https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en" target="_blank">Learn CSS on your Mobile</a>
+ <a href="example.com" target="_blank">Learn CSS on your Mobile</a>
 
 
 ## Advanced CSS
