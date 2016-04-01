@@ -1,6 +1,7 @@
+<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/ci.png">
+
 # Full-Stack-Web-Developer-Stream-0
 Get the fundamental skills in place before taking our Full Stack Web Developer Course via  Mentored Online or the Classroom programmes
-<img src="https://github.com/Devbootcamp/graphic-assets/blob/master/logos/DBC_HORIZONTAL%20LOGO/2_COLOR/RGB/DBC_H_2C_RGB.png">
 
 
 ## Before you start Stream 0
