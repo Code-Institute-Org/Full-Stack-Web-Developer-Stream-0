@@ -19,7 +19,7 @@ Overview stuff added here
 
 chat about this in here
 
-- [Solo Learn In Browser Editor](http://code.sololearn.com/#html)
+- [Solo Learn In-Browser Editor](http://code.sololearn.com/#html)
 
  
 ## HTML & CSS Fundamentals - Additional Materials
