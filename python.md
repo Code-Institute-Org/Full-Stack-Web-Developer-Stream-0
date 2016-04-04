@@ -1,4 +1,6 @@
-<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/python-logo.png">
+
+
+<div style="text-align:center"><img src ="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/python-logo.png" /></div>.
 
 # Python
 
