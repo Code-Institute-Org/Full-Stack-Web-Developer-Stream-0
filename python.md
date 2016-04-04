@@ -7,7 +7,7 @@ Overview stuff added here
 
 
 ## Learn Python Fundamentals on your Mobile and Laptop
- Solo Learn is a free resource that you can use to learn the basics of Python programming. 
+> Solo Learn is a free resource that you can use to learn the basics of Python programming. 
  Test your self wth quizzes both on your laptop and your mobile. 
  Attain your badges and let us know how you are progressing by mailing your badge links to studentcare@codeinstitute.net
  
@@ -17,7 +17,7 @@ Overview stuff added here
  
 #### Useful Online Editor  
 
-Test your Python code in here without having to install Python or an Integrated Devlopment Environment on your machine
+> Test your Python code in here without having to install Python or an Integrated Devlopment Environment on your machine
 
 - [Solo Learn In-Browser Editor](http://code.sololearn.com/#html)
 
@@ -35,7 +35,7 @@ Test your Python code in here without having to install Python or an Integrated 
 
 ### Useful Python Videos
 
-We've collected some great Python videos from a series by Bucky Roberts. Bucky's videos are fun, informative, 
+> We've collected some great Python videos from a series by Bucky Roberts. Bucky's videos are fun, informative, 
 free and have successfully taught thousands of beginners the fundamentals of Python. 
 Follow along with his tutorials. Modify your code. Be curious and get stuck in!
 
