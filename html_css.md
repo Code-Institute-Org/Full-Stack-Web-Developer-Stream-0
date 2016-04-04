@@ -34,15 +34,6 @@ Windows : - [Notepad++](https://notepad-plus-plus.org/download/v6.9.1.html)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
 
-
-## Advanced HTML & CSS
-
-chat about this in here
-
-- [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
-- [CSS Reference](http://tympanus.net/codrops/css_reference/)
-
-
 ## Useful HTML & CSS Videos
 
 - [HTML - Intro ](https://www.youtube.com/watch?v=LqvFIuVlyP8)

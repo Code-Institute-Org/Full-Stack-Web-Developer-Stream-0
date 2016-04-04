@@ -1,6 +1,4 @@
-
-
-<div style="text-align:center"><img src ="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/python-logo.png" /></div>.
+<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/python-logo.png">
 
 # Python
 
@@ -37,8 +35,9 @@ Test your Python code in here without having to install Python or an Integrated 
 
 ### Useful Python Videos
 
-We've collected some great videos from a series by Bucky Roberts. Bucky's videos are fun, informative, 
-free and have successfully taught thousands of beginners the fundamentals of Python.
+We've collected some great Python videos from a series by Bucky Roberts. Bucky's videos are fun, informative, 
+free and have successfully taught thousands of beginners the fundamentals of Python. 
+Follow along with his tutorials. Modify your code. Be curious and get stuck in!
 
 
 
