@@ -27,7 +27,7 @@ Test your HTML & CSS code in here without having to install an Integrated Devlop
 #### Simple Desktop Editors
 
 Mac:      - [Text Wrangler](http://www.barebones.com/products/textwrangler/download.html)
-Windows : - [Notepad++](hhttps://notepad-plus-plus.org/download/v6.9.1.html)
+Windows : - [Notepad++](https://notepad-plus-plus.org/download/v6.9.1.html)
 
  
 ## HTML & CSS Fundamentals - Additional Materials
