@@ -5,28 +5,29 @@
 Overview stuff added here
 
 
-## HTML & CSS Basics
-- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
-- [HTML Quizzes](http://www.sololearn.com/Course/HTML/)
-- [CSS Quizzes](http://www.sololearn.com/Course/HTML/)
 
 
-
-
+#### Learn HTML & CSS Fundamentals on your Mobile and Laptop
+ chat about this in here
+ 
+ - [Learn HTML on your Laptop](http://code.sololearn.com)
+ - [Learn HTML on your Mobile]( https://play.google.com/store/apps/details?id=com.sololearn.htmltrial&hl=en)
+ - [Learn CSS on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
+ 
+ 
 #### Useful Online Editor
 
 chat about this in here
 
 - [Solo Learn In Browser Editor](http://code.sololearn.com/#html)
 
-#### Learn HTML & CSS on your Mobile
- chat about this in here
  
- - [Learn HTML on your Mobile]( https://play.google.com/store/apps/details?id=com.sololearn.htmltrial&hl=en)
- - [Learn CSS on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
- 
+## HTML & CSS Fundamentals - Additional Materials
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
-## Advanced CSS
+
+
+## Advanced HTML & CSS
 
 chat about this in here
 
@@ -34,6 +35,6 @@ chat about this in here
 - [CSS Reference](http://tympanus.net/codrops/css_reference/)
 
 
-## HTML & CSS Videos
+## Useful HTML & CSS Videos
 
 - [The New Boston - HTML ](https://thenewboston.com/videos.php?cat=43)
