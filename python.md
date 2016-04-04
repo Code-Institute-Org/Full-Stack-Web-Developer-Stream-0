@@ -64,6 +64,26 @@ free and have successfully taught thousands of beginners the fundamentals of Pyt
 
 
 
+## Python Community
+- [Python Org](https://www.python.org/community/)
+- [Python Weekly](http://www.pythonweekly.com/)
+- [Python Ireland](https://python.ie/)
+- [Python London](http://www.meetup.com/The-London-Python-Group-TLPG/)
+- [Python Oxford](http://www.meetup.com/oxfordpython/)
+- [PyLadies Edinburgh](http://www.meetup.com/PyLadiesEdinburgh/)
+- [Python West Yorkshire](http://wypy.org.uk/)
+- [Python Cardiff](http://www.meetup.com/PyDiff/)
+- [Python India](https://pssi.org.in/)
+- [Python Europe](http://www.europython-society.org/)
+- [Python Twitter](https://twitter.com/ThePSF)
+
+
+
+
+
+
+
+
 
 
 
