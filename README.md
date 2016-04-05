@@ -2,7 +2,7 @@
 
 # Full-Stack-Web-Developer-Stream-0
 At its core our Full Stack Web Developer Bootcamp is based on HTML & CSS, JavaScript and Python. 
-We use this combination of languages to bring you practical, real-world, modules and labs that result in you creating professional grade projects that you can proudly show to the world via Git and GitHub
+We use this combination of languages to bring you practical, real-world, modules and labs that you will use to create professional grade projects that you can proudly show to the world via Git and GitHub
 We want you to flourish on the programme, to bring out your natural skills and instincts for rational and creative thinking. 
 To do this we want you to have the fundamentals of these languages and techologies in place before moving on to the Streams that follow.
 
