@@ -10,7 +10,7 @@ To help you get there we have put together a comprehensive collection of careful
 
 And before imersing yourself in JavaScript and Python, you'll get to grips with core coding concepts commont to nearly all languages before setting about understanding the syntax of these languages. You'll do this by using Scratch. The number 1 tool used to teach coding beginners in Coder Dojo's around the globe.
 
-We also want you to build up a portfolio of your work right from the start of the main programme. You'll show your code right here on GitHub - the worlds most popular social coding network. To do that we ahave an excellent set of lessons to Get you up and running with Git and GitHub
+We also want you to build up a portfolio of your work right from the start of the main programme. You'll show your code right here on GitHub - the worlds most popular social coding network. To do that we have an excellent set of lessons to get you up and running with Git and GitHub
 
 So be curious, get stuck in, and enjoy!
 
