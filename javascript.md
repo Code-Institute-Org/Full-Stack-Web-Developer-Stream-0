@@ -11,7 +11,7 @@ Overview stuff added here
 Test your self wth quizzes both on your laptop and your mobile. 
 Attain your badges and let us know how you are progressing by mailing your badge links to studentcare@codeinstitute.net
  
- &nbsp;&nbsp;&nbsp;[Learn JavaScript on your Laptop](http://www.sololearn.com/Course/HTML/)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Learn JavaScript on your Laptop](http://www.sololearn.com/Course/HTML/)
  
  &nbsp;&nbsp;&nbsp;[Learn JavaScript on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
  
