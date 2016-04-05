@@ -19,38 +19,57 @@ This is the essence of version control and Git does it very well indeed.
 ## Git Fundamentals
 
 ### Git Overview 
-[What is Version Control? - Video](https://git-scm.com/video/what-is-version-control)
+&nbsp;&nbsp;&nbsp;[What is Version Control? - Video](https://git-scm.com/video/what-is-version-control)
 
-[What is Git? - Video](https://git-scm.com/video/what-is-git)
+&nbsp;&nbsp;&nbsp;[What is Git? - Video](https://git-scm.com/video/what-is-git)
 
-[Get going with Git - Video](https://git-scm.com/video/get-going)
+&nbsp;&nbsp;&nbsp;[Get going with Git - Video](https://git-scm.com/video/get-going)
 
-[Quick wins with Git - Video](https://git-scm.com/video/quick-wins)
+&nbsp;&nbsp;&nbsp;[Quick wins with Git - Video](https://git-scm.com/video/quick-wins)
 
 ### Git Tutorials
 
-#### Terminal/Command Line Tutorials
+####  Terminal/Command Line Tutorials
 
-chat in here
+> chat in here
+
 ##### Mac Terminal
-[Mac - Using the Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
+> Mac chat in here
+
+&nbsp;&nbsp;&nbsp;[Mac - Using the Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
+
+&nbsp;&nbsp;&nbsp;[Mac - Terminal Commands - Video](https://www.youtube.com/watch?v=IVDS1O4gv2U)
+
+
 
 ##### Windows Command Line
-Windows chat here
-[Windows - Using the Command Line](http://www.computerhope.com/issues/chusedos.htm)
-[Windows - Using the Command Line 1 - Video](https://www.youtube.com/watch?v=gy7L-dBVhMo)
-[Windows - Using the Command Line 2 - Video](https://www.youtube.com/watch?v=OB8x0r17Bjg)
+> Windows chat here
 
+&nbsp;&nbsp;&nbsp;[Windows - Using the Command Line](http://www.computerhope.com/issues/chusedos.htm)
 
+&nbsp;&nbsp;&nbsp;[Windows - Using the Command Line 1 - Video](https://www.youtube.com/watch?v=gy7L-dBVhMo)
+
+&nbsp;&nbsp;&nbsp;[Windows - Using the Command Line 2 - Video](https://www.youtube.com/watch?v=OB8x0r17Bjg)
+
+##### Linux Terminal
+> Linux chat here
+
+&nbsp;&nbsp;&nbsp;[Linux - Using the Terminal 1 - Video](https://www.youtube.com/watch?v=AO0jzD1hpXc)
+
+&nbsp;&nbsp;&nbsp;[Linux - Using the Terminal 2 - Video](https://www.youtube.com/watch?v=HsBEzs6Q7w4)
+
+&nbsp;&nbsp;&nbsp;[Linux - Using the Terminal 3 - Video](https://www.youtube.com/watch?v=rm9VthABJXA)
+
+&nbsp;&nbsp;&nbsp;[Linux - Using the Terminal 4 - Video](https://www.youtube.com/watch?v=VPgrtk0HQB0)
 
 
 #### Installing Git
 
-[Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+&nbsp;&nbsp;&nbsp;[Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 #### Git Basic Commands
 
-[Git - Essential Steps & Commands](https://www.atlassian.com/git/tutorials/what-is-version-control)
+&nbsp;&nbsp;&nbsp;[Git - Essential Steps & Commands](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 
 ## Working on GitHub
@@ -72,43 +91,36 @@ Other users can do the same with your public projects, and even spot errors and 
 
 
 
-[Set Up a GitHub Account](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+&nbsp;&nbsp;&nbsp;[Set Up a GitHub Account](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 
-[GitHub Foundations](https://www.youtube.com/watch?v=FyfwLX4HAxM)
-
-[GitHub Hello World](https://guides.github.com/activities/hello-world/)
-
-[GitHub Adding a Project](https://guides.github.com/introduction/getting-your-project-on-github/)
+&nbsp;&nbsp;&nbsp;[GitHub Foundations - Video](https://www.youtube.com/watch?v=FyfwLX4HAxM)
 
 
+&nbsp;&nbsp;&nbsp;[GitHub Flow -](https://guides.github.com/introduction/flow/)
 
 
+&nbsp;&nbsp;&nbsp;[GitHub Hello World](https://guides.github.com/activities/hello-world/)
 
-
-
+&nbsp;&nbsp;&nbsp;[GitHub Adding a Project](https://guides.github.com/introduction/getting-your-project-on-github/)
 
 
 
 
 ### Git References 
 
-[Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+&nbsp;&nbsp;&nbsp;[Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-[Git Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;)
+&nbsp;&nbsp;&nbsp;[Git Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;)
 
-[Git Reference](https://git-scm.com/docs)
+&nbsp;&nbsp;&nbsp;[Git Reference](https://git-scm.com/docs)
 
-
-[GitHub Showcase](https://github.com/showcases)
-
-
-
+&nbsp;&nbsp;&nbsp;[GitHub Showcase](https://github.com/showcases)
 
 
 
 ## Useful Git & Github Videos
 
-[HTML - Intro ](https://www.youtube.com/watch?v=LqvFIuVlyP8)
+&nbsp;&nbsp;&nbsp;[HTML - Intro ](https://www.youtube.com/watch?v=LqvFIuVlyP8)
 
 
 
