@@ -1,4 +1,4 @@
-<img src="https://github.com/Code Institute Org/Full Stack Web Developer Stream 0/blob/master/javascript.png">
+<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/javascript.png">
 
 # JavaScript
 
@@ -12,6 +12,7 @@ Test your self wth quizzes both on your laptop and your mobile.
 Attain your badges and let us know how you are progressing by mailing your badge links to studentcare@codeinstitute.net
  
  &nbsp;&nbsp;&nbsp;[Learn JavaScript on your Laptop](http://www.sololearn.com/Course/HTML/)
+ 
  &nbsp;&nbsp;&nbsp;[Learn JavaScript on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
  
  
@@ -29,7 +30,7 @@ Attain your badges and let us know how you are progressing by mailing your badge
 
 
 
-## Useful JavaScript Videos
+## Core JavaScript Videos
 
 > We've collected some great JavaScript videos from a series by Bucky Roberts. Bucky's videos are fun, informative, 
 free and have successfully taught thousands of beginners the fundamentals of Python. 
