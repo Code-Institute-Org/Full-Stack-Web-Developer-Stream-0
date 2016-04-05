@@ -12,7 +12,7 @@ A typical webpage depends on several technologies (such as CSS, JavaScript, Flas
 but most fundamentally, developers write webpages in HTML, without which there can be no webpages. 
 To display the page on the client-side device, a browser starts out by reading the HTML.
 
->Cascading Style Sheets (CSS) is a language for specifying how documents are presented to users. 
+Cascading Style Sheets (CSS) is a language for specifying how documents are presented to users. 
 These documents are written in a markup language such as HTML
 
 >It's essential to have a comprehensive understanding of HTML & CSS before Progressing to Streams 1 - 3 of the Full Stack Web Developer Bootcamp 
