@@ -10,14 +10,19 @@ For many students, the seemingly cryptic syntax of languages like Java tends to 
 
 
 
-#### Learn JavaScript Fundamentals on your Mobile and Laptop
-> Solo Learn is a free resource that you can use to learn the basics of JavaScript programming. 
-Test your self wth quizzes both on your laptop and your mobile. 
-Attain your badges and let us know how you are progressing by mailing your badge links to studentcare@codeinstitute.net
+## Install Scratch
+
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Learn JavaScript on your Laptop](http://www.sololearn.com/Course/HTML/)
- 
- &nbsp;&nbsp;&nbsp;[Learn JavaScript on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
+ &nbsp;&nbsp;&nbsp;[Scratch Installer - Mac , Windows, Linux](https://scratch.mit.edu/scratch_1.4/)
  
  
-#### Useful Online Editor
+##  Scratch Tutorial
+
+ &nbsp;&nbsp;&nbsp;[Scratch Lesson 1](Scratch_Session_1.pdf)
+ 
+ &nbsp;&nbsp;&nbsp;[Scratch Lesson 2](Scratch_Session_2.pdf)
+  
+ &nbsp;&nbsp;&nbsp;[Scratch Lesson 3](Scratch_Session_3.pdf)
+
+
+##  Additional Scratch Resources
