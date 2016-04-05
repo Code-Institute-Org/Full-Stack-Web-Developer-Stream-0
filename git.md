@@ -2,7 +2,7 @@
 
 # Git
 
-> Why do we need it? If you’re working on a small project that’s all yours, and you don’t plan to share it with anyone else, then Version Control may not really be an issue.
+Why do we need it? If you’re working on a small project that’s all yours, and you don’t plan to share it with anyone else, then Version Control may not really be an issue.
 However, the days when an individual designs and develops a professional project on his or her own are all but gone. 
 You can manage changes by yourself without too much difficulty, but when others become involved – things can get tricky pretty quick.
 This wouldn’t be so bad if there was a clean separation of responsibilities. At first you might think that when you’re finished with your part of a project, 
