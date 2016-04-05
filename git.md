@@ -64,19 +64,28 @@ This is the essence of version control and Git does it very well indeed.
 
 
 #### Installing Git
+> To get started Git you need to install it on your local machine 
 
 &nbsp;&nbsp;&nbsp;[Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 #### Git Basic Commands
 
-&nbsp;&nbsp;&nbsp;[Git - Essential Steps & Commands](https://www.atlassian.com/git/tutorials/what-is-version-control)
+> Git can be used in the Command Line/Terminal or via GUI interface.
+It's a good idea to have an understanding of Git on the command line to appreciate it's capabilities
+
+&nbsp;&nbsp;&nbsp;[Git - Essential Steps & Commands To Get You Up and Running](http://rogerdudler.github.io/git-guide/)
+
+&nbsp;&nbsp;&nbsp;[Git - A More Comprehensive Tutorial](http://gitimmersion.com/)
 
 
 ## Working on GitHub
 
 <img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/git_github.jpg">
 
-> GitHub is not strictly a development tool – it can be thought of as a social network for documents.  
+> Welcome to GitHub! By reading these Stream 0 documents you are already taking your first steps into the world of hosted social version control.
+You can see the documents created and the history of all the edits, additions, deletes and formatting used to put all of this together
+
+>GitHub is not strictly a development tool – it can be thought of as a social network for documents. 
 You build a profile, upload projects to share, and connect with other users. You can even follow other user accounts. 
 While many users store code projects, there’s nothing stopping you from using Github to store your favourite recipes or anything else you want.
 Strictly speaking, we don’t need to know coding to use GitHub. We can sign up and explore, but we would be missing the point. 
@@ -88,16 +97,9 @@ You can browse other GitHub users’ projects, and even download copies for your
 Other users can do the same with your public projects, and even spot errors and suggest fixes. Either way, no data is lost because a snapshot is made of every change.
 
 
-
-
-
 &nbsp;&nbsp;&nbsp;[Set Up a GitHub Account](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 
-&nbsp;&nbsp;&nbsp;[GitHub Foundations - Video](https://www.youtube.com/watch?v=FyfwLX4HAxM)
-
-
 &nbsp;&nbsp;&nbsp;[GitHub Flow -](https://guides.github.com/introduction/flow/)
-
 
 &nbsp;&nbsp;&nbsp;[GitHub Hello World](https://guides.github.com/activities/hello-world/)
 
@@ -118,10 +120,47 @@ Other users can do the same with your public projects, and even spot errors and 
 
 
 
-## Useful Git & Github Videos
+## Git & Github Foundations Video Lessons
 
-&nbsp;&nbsp;&nbsp;[HTML - Intro ](https://www.youtube.com/watch?v=LqvFIuVlyP8)
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Introduction](https://www.youtube.com/watch?v=FyfwLX4HAxM)
 
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Setup](https://www.youtube.com/watch?v=7Inc0G0wutk)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Config](https://www.youtube.com/watch?v=ZChtKFLiaNw)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Init](https://www.youtube.com/watch?v=WxMFZncm12s)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Commit](https://www.youtube.com/watch?v=A-Cll9jEnnM)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Log](https://www.youtube.com/watch?v=Ew8HQsFyVHo)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Remove](https://www.youtube.com/watch?v=jtuHOIlfS2Q)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Move](https://www.youtube.com/watch?v=ipdgyfPq8FE)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Ignore](https://www.youtube.com/watch?v=4VBG9FlyiOw)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Branch](https://www.youtube.com/watch?v=H5GJfcp3p4Q)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Checkout](https://www.youtube.com/watch?v=HwrPhOp6-aM)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Merge](https://www.youtube.com/watch?v=yyLiplDQtf0)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Network](https://www.youtube.com/watch?v=xdao5LCNoYE)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - GUI](https://www.youtube.com/watch?v=BMYOs5jflGE)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Intro To GitHub](https://www.youtube.com/watch?v=vDv5K5PbvO8)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Forking](https://www.youtube.com/watch?v=5oJHRbqEofs)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Pull Requests](https://www.youtube.com/watch?v=d5wpJ5VimSU)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Reset](https://www.youtube.com/watch?v=BKPjPMVB81g)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Reflog](https://www.youtube.com/watch?v=Vxc9m_OVyo0)
+
+&nbsp;&nbsp;&nbsp;[GitHub & Git Foundations - Rebasing](https://www.youtube.com/watch?v=SxzjZtJwOgo)
 
 
 
