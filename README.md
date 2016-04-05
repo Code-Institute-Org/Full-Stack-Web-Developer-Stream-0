@@ -5,15 +5,7 @@ Get the fundamental skills in place before taking our Full Stack Web Developer C
 
 
 ## Before you start Stream 0
-- [Phase 0 Prerequisites](phase-0-prerequisites.md)
 
-## Overview, Policies, and Contact
-- [Welcome!](overview.md)
-- [Policies](policies.md)
-- [Contact Us](contact-and-support-list.md)
-- [Reflections](reflections.md)
-- [Accountability Groups](accountability-groups.md)
-- [Office Hours](office-hours.md)
 
 ## Components of Stream 0
 
