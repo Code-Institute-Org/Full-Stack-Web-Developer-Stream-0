@@ -8,6 +8,8 @@ To do this we want you to have the fundamentals of these languages and techologi
 
 To help you get there we have put together a comprehensive collection of carefully chosen resources that cover all the requirements to begin the main programme. You'll use a combination of free web based videos and tutorials and download apps so you can study directly your phone or tablet. You'll gain badges when completing study sections and unlocking learning content. We want you to send on you badges to us so we see how you are getting on before starting the main programme.
 
+And before imersing yourself into JavaScript and Python, you'll get to grips with core coding concepts commont to nearly all languages before setting about understanding the syntax of these languages. You'll do this by using Scratch. The number 1 tool used to teach coding beginners in Coder Dojo's around the globe.
+
 We also want you to build up a portfolio of your work right from the start of the main programme. You'll show your code right here on GitHub - the worlds most popular social coding network. To do that we ahave an excellent set of lessons to Get you up and running with Git and GitHub
 
 So be curious, get stuck in, and enjoy!
