@@ -2,7 +2,7 @@
 
 # HTML & CSS
 
-> Fundamentally, when you look at a webpage in a Web browser, you see words. 
+Fundamentally, when you look at a webpage in a Web browser, you see words. 
 But most of the time webpages contain styled text rather than plain text. Nowadays, webpage designers and developers have access to hundreds of different fonts, 
 font sizes, colors, and even alphabets. Web browsers can for the most part display them accurately. 
 Webpages may also contain images, video clips, and background music. They may include drop-down menus, search boxes, or links you 
