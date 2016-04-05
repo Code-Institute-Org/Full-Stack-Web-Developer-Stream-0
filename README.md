@@ -17,10 +17,15 @@ So be curious, get stuck in, and enjoy!
 
 ## Components of Stream 0
 
-- [HTML & CSS](html_css.md)
-- [JavaScript](javascript.md)
-- [Python](python.md)
-- [Git](git.md)
+&nbsp;&nbsp;&nbsp;[HTML & CSS](html_css.md)  - Your first steps into development
+
+&nbsp;&nbsp;&nbsp;[Scratch](scratch.md) - Get the coding concepts in place without messy syntax getting in the way
+
+&nbsp;&nbsp;&nbsp;[JavaScript](javascript.md) - Add client-side logic and behaviour to Web Pages
+
+&nbsp;&nbsp;&nbsp;[Python](python.md) - The worlds fastest growing server-side language
+
+&nbsp;&nbsp;&nbsp;[Git & GitHub](git.md) - The worlds most popular version control and social coding network
 
 
 ## Important Resources
