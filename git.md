@@ -55,6 +55,8 @@ Windows chat here
 
 ## Working on GitHub
 
+<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/git_github.jpg">
+
 > GitHub is not strictly a development tool – it can be thought of as a social network for documents.  
 You build a profile, upload projects to share, and connect with other users. You can even follow other user accounts. 
 While many users store code projects, there’s nothing stopping you from using Github to store your favourite recipes or anything else you want.
@@ -95,6 +97,11 @@ Other users can do the same with your public projects, and even spot errors and 
 [Git Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;)
 
 [Git Reference](https://git-scm.com/docs)
+
+
+[GitHub Showcase](https://github.com/showcases)
+
+
 
 
 
