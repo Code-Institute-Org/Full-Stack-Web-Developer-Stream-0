@@ -8,7 +8,7 @@ You can manage changes by yourself without too much difficulty, but when others 
 This wouldn’t be so bad if there was a clean separation of responsibilities. At first you might think that when you’re finished with your part of a project, 
 you’ll send it off to your colleague Sarah to finish. But this is not practical for a number of reasons. 
 Much of the time you’ll find yourself working on projects – and even files – concurrently with others. 
-Version Control allows a team to work in synchrony, all using the same files. It helps the team cope with the confusion that arises from multiple people editing the same files.
+Version Control allows a team to work synchronously. It helps the team cope with the confusion that arises from multiple people editing the same files.
 Git is a version control system created by Linus Torvalds (who also happens to be the creator of Linux). He named this version control system after himself.
 When using Git, you and Sarah can each work on separate visions of a project and Git will save two distinct copies. Later, you can merge your changes together without losing any of your precious work. If you later realise you made a horrible mistake, you can revert to an earlier version at any time. Git keeps a “snapshot” of every change ever made. Hurray!
 This is the essence of version control and Git does it very well indeed.
@@ -31,19 +31,19 @@ This is the essence of version control and Git does it very well indeed.
 
 ####  Terminal/Command Line Tutorials
 
-> chat in here
+> A command line interface is a means used for interacting with software or files by typing commands to perform specific tasks. 
+The command line interface is the baby brother of programming languages. 
+Learning the command line teaches you to control the computer using language rather than mouse-clicking on icons trees and folders.
+You'll need to get the basics in place in order to use Git
 
 ##### Mac Terminal
-> Mac chat in here
 
 &nbsp;&nbsp;&nbsp;[Mac - Using the Terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
 
 &nbsp;&nbsp;&nbsp;[Mac - Terminal Commands - Video](https://www.youtube.com/watch?v=IVDS1O4gv2U)
 
 
-
 ##### Windows Command Line
-> Windows chat here
 
 &nbsp;&nbsp;&nbsp;[Windows - Using the Command Line](http://www.computerhope.com/issues/chusedos.htm)
 
@@ -52,7 +52,6 @@ This is the essence of version control and Git does it very well indeed.
 &nbsp;&nbsp;&nbsp;[Windows - Using the Command Line 2 - Video](https://www.youtube.com/watch?v=OB8x0r17Bjg)
 
 ##### Linux Terminal
-> Linux chat here
 
 &nbsp;&nbsp;&nbsp;[Linux - Using the Terminal 1 - Video](https://www.youtube.com/watch?v=AO0jzD1hpXc)
 
@@ -70,8 +69,8 @@ This is the essence of version control and Git does it very well indeed.
 
 #### Git Basic Commands
 
-> Git can be used in the Command Line/Terminal or via GUI interface.
-It's a good idea to have an understanding of Git on the command line to appreciate it's capabilities
+> Git can be used in the Command Line/Terminal or via a GUI interface.
+It's a good idea to have an understanding of Git on the command line to appreciate its goodness
 
 &nbsp;&nbsp;&nbsp;[Git - Essential Steps & Commands To Get You Up and Running](http://rogerdudler.github.io/git-guide/)
 
@@ -105,7 +104,9 @@ Other users can do the same with your public projects, and even spot errors and 
 
 &nbsp;&nbsp;&nbsp;[GitHub Adding a Project](https://guides.github.com/introduction/getting-your-project-on-github/)
 
+> Install Github for desktop - The people at GitHub assume that if you are a Linux user then you're a command line nut, so no GUI for you guys
 
+&nbsp;&nbsp;&nbsp;[Installing GitHub Desktop](https://guides.github.com/introduction/getting-your-project-on-github/)
 
 
 ### Git References 
@@ -117,7 +118,6 @@ Other users can do the same with your public projects, and even spot errors and 
 &nbsp;&nbsp;&nbsp;[Git Reference](https://git-scm.com/docs)
 
 &nbsp;&nbsp;&nbsp;[GitHub Showcase](https://github.com/showcases)
-
 
 
 ## Git & Github Foundations Video Lessons
