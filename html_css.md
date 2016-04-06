@@ -1,4 +1,4 @@
-<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/html5-css3.png">
+<img src="html5-css3.png">
 
 # HTML & CSS
 
