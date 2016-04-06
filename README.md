@@ -21,7 +21,7 @@ So be curious, get stuck in, and enjoy!
 
 &nbsp;&nbsp;&nbsp;[HTML & CSS](html_css.md)  - Your first steps into development
 
-&nbsp;&nbsp;&nbsp;[Scratch](scratch.md) - Get the coding concepts in place without messy syntax getting in the way
+&nbsp;&nbsp;&nbsp;[Scratch](scratch.md) - Get the coding concepts in place without syntax getting in the way
 
 &nbsp;&nbsp;&nbsp;[JavaScript](javascript.md) - Add client-side logic and behaviour to Web Pages
 
