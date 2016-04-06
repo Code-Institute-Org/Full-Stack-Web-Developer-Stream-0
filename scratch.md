@@ -1,4 +1,4 @@
-<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/scratch_logo.jpg">
+<img src="scratch_.jpg">
 
 # Scratch
 
