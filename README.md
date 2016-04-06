@@ -1,4 +1,4 @@
-<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/ci.png">
+<img src="ci.png">
 
 # Full-Stack-Web-Developer-Stream-0
 At its core our Full Stack Web Developer Bootcamp is based on HTML & CSS, JavaScript and Python. 
