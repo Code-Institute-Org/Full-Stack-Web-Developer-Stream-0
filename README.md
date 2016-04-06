@@ -6,7 +6,7 @@ We use this combination of languages to bring you practical, real-world, modules
 We want you to flourish on the programme, to bring out your natural skills and instincts for rational and creative thinking. 
 To do this we want you to have the fundamentals of these languages and technologies in place before moving on to the Streams that follow.
 
-To help you get there we have put together a comprehensive collection of carefully chosen resources that cover all the requirements to begin the main programme. You'll use a combination of free web based videos and tutorials and download apps so you can study directly your phone or tablet. You'll gain badges when completing study sections and unlocking learning content. We want you to send on you badges to us so we see how you are getting on before starting the main programme.
+To help you get there we have put together a comprehensive collection of carefully chosen resources that cover all the requirements to begin the main programme. You'll use a combination of free web based videos and tutorials and download apps so you can study directly your phone or tablet. You'll gain badges when completing study sections and unlocking learning content. We want you to send on your badges to us so we see how you are getting on before starting the main programme.
 
 And before imersing yourself in JavaScript and Python, you'll get to grips with core coding concepts commont to nearly all languages before setting about understanding the syntax of these languages. You'll do this by using Scratch, the number one tool used to teach coding beginners in Coder Dojo's around the globe.
 
