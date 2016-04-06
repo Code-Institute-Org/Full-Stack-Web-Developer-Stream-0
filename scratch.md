@@ -1,4 +1,4 @@
-<img src="scratch_.jpg">
+<img src="scratch_.png">
 
 # Scratch
 
