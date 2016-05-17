@@ -59,6 +59,10 @@ Windows :   &nbsp;&nbsp;&nbsp;[Notepad++](https://notepad-plus-plus.org/download
   &nbsp;&nbsp;&nbsp;[CSS3 Cheat Sheet](http://2zpt4dwruy922flhqyznip50.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg)
   
   &nbsp;&nbsp;&nbsp;[CSS Reference ](http://tympanus.net/codrops/css_reference/)
+  
+   &nbsp;&nbsp;&nbsp;[HTML Best Practices](https://github.com/hail2u/html-best-practices)
+  
+  
 
 
 ## Core HTML & CSS Videos
