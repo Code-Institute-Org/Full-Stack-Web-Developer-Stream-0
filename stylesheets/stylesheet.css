@@ -165,8 +165,7 @@ a {
   .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after {
     content: normal; }
 .main-content ul, .main-content ol {
-  margin-top: 0;
-  list-style: none; }
+  margin-top: 0; }
 .main-content blockquote {
   padding: 0 1rem;
   margin-left: 0;
