@@ -61,7 +61,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 1.5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
@@ -69,7 +69,7 @@ a {
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 1rem; } }
+    padding: 1rem 0.5rem; } }
 
 .project-name {
   margin-top: 0;
@@ -243,3 +243,18 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+img {
+  float:right;
+}
+
+nav {
+  width:100%;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  font: 1.5rem "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0 2% 0 2%;
+  opacity: 0.7;
+}

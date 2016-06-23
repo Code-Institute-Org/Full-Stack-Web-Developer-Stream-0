@@ -85,7 +85,7 @@ It's a good idea to have an understanding of Git on the command line to apprecia
 
 ## Working on GitHub
 
-<img src="git_github.jpg">
+<img src="{{site.data.global.url}}assets/git_github.jpg">
 
 > Welcome to GitHub! By reading these Stream 0 documents you are already taking your first steps into the world of hosted social version control.
 You can see the documents created and the history of all the edits, additions, deletes and formatting used to put all of this together
