@@ -4,7 +4,7 @@ title: HTML5 & CSS3
 permalink: /html-css/
 ---
 
-<img src="html5-css3.png">
+<img src="{{site.data.global.url}}assets/html5-css3.png">
 
 # HTML & CSS
 

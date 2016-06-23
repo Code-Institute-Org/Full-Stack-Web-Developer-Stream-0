@@ -4,7 +4,7 @@ title: Python
 permalink: /python/
 ---
 
-<img src="https://github.com/Code-Institute-Org/Full-Stack-Web-Developer-Stream-0/blob/master/python-logo.png">
+<img src="{{site.data.global.url}}assets/python-logo.png">
 
 # Python
 

@@ -4,7 +4,7 @@ title: JavaScript
 permalink: /javascript/
 ---
 
-<img src="javascript.png">
+<img src="{{site.data.global.url}}assets/javascript.png">
 
 # JavaScript
 

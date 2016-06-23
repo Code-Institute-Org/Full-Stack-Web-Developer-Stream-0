@@ -4,7 +4,7 @@ title: Git & Github
 permalink: /git/
 ---
 
-<img src="git.jpg">
+<img src="{{site.data.global.url}}assets/git.jpg">
 
 # Git
 
