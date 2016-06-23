@@ -24,9 +24,9 @@ For many beginners, the seemingly cryptic syntax of languages like JavaScript or
  
 ##  Scratch Tutorial
 
-&nbsp;&nbsp;&nbsp;<a href="{{site.data.global.url}}assets/Scratch_Session_1.pdf" target="_blank">Scratch Lesson 1</a>
-&nbsp;&nbsp;&nbsp;<a href="{{site.data.global.url}}assets/Scratch_Session_2.pdf" target="_blank">Scratch Lesson 2</a>
-&nbsp;&nbsp;&nbsp;<a href="{{site.data.global.url}}assets/Scratch_Session_3.pdf" target="_blank">Scratch Lesson 3</a>
+<p>&nbsp;&nbsp;&nbsp;<a href="{{site.data.global.url}}assets/Scratch_Session_1.pdf" target="_blank">Scratch Lesson 1</a></p>
+<p>&nbsp;&nbsp;&nbsp;<a href="{{site.data.global.url}}assets/Scratch_Session_2.pdf" target="_blank">Scratch Lesson 2</a></p>
+<p>&nbsp;&nbsp;&nbsp;<a href="{{site.data.global.url}}assets/Scratch_Session_3.pdf" target="_blank">Scratch Lesson 3</a></p>
 
 
 
