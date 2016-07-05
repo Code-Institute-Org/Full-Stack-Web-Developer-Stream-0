@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: page
 title: JavaScript
 permalink: /javascript/
 ---
@@ -7,9 +7,6 @@ permalink: /javascript/
 <img src="{{site.data.global.url}}assets/javascript.png">
 
 # JavaScript
-
-Overview stuff added here
-
 
 
 #### Learn JavaScript Fundamentals on your Mobile and Laptop

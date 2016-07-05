@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: page
 title: Python
 permalink: /python/
 ---
@@ -7,9 +7,6 @@ permalink: /python/
 <img src="{{site.data.global.url}}assets/python-logo.png">
 
 # Python
-
-Overview stuff added here
-
 
 
 ## Learn Python Fundamentals on your Mobile and Laptop

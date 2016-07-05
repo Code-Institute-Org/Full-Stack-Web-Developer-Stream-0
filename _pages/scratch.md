@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: page
 title: Scratch
 permalink: /scratch/
 ---

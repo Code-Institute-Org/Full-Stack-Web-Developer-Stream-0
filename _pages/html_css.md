@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: page
 title: HTML5 & CSS3
 permalink: /html-css/
 ---
