@@ -473,7 +473,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.major {
 			@include vendor('transform', 'rotate(-45deg)');
 			border-radius: 3px;
-			border: solid 2px _palette(border);
+			border: solid 2px rgba(74, 74, 79, 0.6);
 			display: inline-block;
 			font-size: 1.35em;
 			height: calc(3em + 2px);
@@ -493,15 +493,19 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		&.style1 {
-			color: _palette(accent2, bg);
+			color: #e84610;
 		}
 
 		&.style2 {
-			color: _palette(accent3, bg);
+			color: #e84610;
+			padding: 12.5%;
+			text-align:center;
 		}
 
 		&.style3 {
-			color: _palette(accent4, bg);
+			color: #e84610;
+			padding: 12.5%;
+			text-align:center;
 		}
 	}
 
@@ -1248,6 +1252,10 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style1 {
 			@include wrapper(accent1);
+
+			p {
+				color: #494a4e;
+			}
 		}
 
 		&.style2 {
@@ -1404,6 +1412,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				display: block;
 				height: inherit;
 				line-height: inherit;
+				color: #fff;
 
 				@include breakpoint(small) {
 					font-size: 0.8em;
@@ -1417,7 +1426,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			position: absolute;
 			right: 0;
 			top: 0;
-			backgrounnd-color: #fff;
+			background-color: #fff;
 
 			> ul {
 				list-style: none;
@@ -1431,7 +1440,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 					> a {
 						border: 0;
-						color: _palette(fg-bold);
+						color: #494a4e;
 						display: block;
 						font-size: 0.8em;
 						letter-spacing: _size(letter-spacing-alt);
@@ -1496,7 +1505,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		overflow: hidden;
 		position: relative;
 		text-align: center;
-		background-image: url("http://www.codeinstitute.net/wp-content/uploads/2015/10/Code-Institite-Classroom-1-2.jpg");
+		
+
+		&.after {
+			background-color: #000;
+			opacity: 0.4;
+		}
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
@@ -1533,6 +1547,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		p {
 			letter-spacing: _size(letter-spacing-alt);
 			text-transform: uppercase;
+			
 
 			a {
 				color: inherit;
@@ -1855,10 +1870,20 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	.logo {
-  display: block;
+	display: block;
   max-width:230px;
-  max-height:47.5px;
+  max-height:45px;
   width: auto;
   float:left;
+  padding-top: 5%;
   height: auto;
+}
+
+#header {
+	background-color: #fff;
+	color: #000;
+}
+
+#menu, #menu > span {
+	color: #000 !important;
 }
