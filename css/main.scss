@@ -905,18 +905,23 @@ $baseurl: '{{ site.baseurl }}/images';
 			position: relative;
 			text-align: left;
 			width: 50%;
+			
 
-			@for $i from 1 through _misc(max-features) {
-				$j: 0.035 * $i;
+			.icon {
+				
+			}
 
-				&:nth-child(#{$i}) {
-					background-color: rgba(0,0,0, $j);
-				}
+			h3 {
+				color: #e84610 !important;
+			}
+
+			p {
+				color: #494a4e;
 			}
 
 			&:before {
 				display: block;
-				color: _palette(accent2, bg);
+				color: #e84610 !important;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -978,6 +983,10 @@ $baseurl: '{{ site.baseurl }}/images';
 			img {
 				border-radius: 0;
 				width: 100%;
+				max-height: 300px;
+				display: block;
+				width: 100%;
+				height: auto;
 			}
 		}
 
