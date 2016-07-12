@@ -4,7 +4,9 @@ title: Scratch
 permalink: /scratch/
 ---
 
+<div id="scratch-img">
 <img src="{{site.data.global.url}}assets/scratch_.png">
+</div>
 
 # Scratch
 
