@@ -2397,10 +2397,8 @@ body.is-menu-visible #menu {
   min-height: 35em;
   overflow: hidden;
   position: relative;
-  text-align: center; }
-  #banner.after {
-    background-color: #000;
-    opacity: 0.4; }
+  text-align: center;
+  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("http://codeinstitute.net/wp-content/uploads/2016/07/Classroom.jpg"); }
   #banner h2 {
     -moz-transform: scale(1);
     -webkit-transform: scale(1);
@@ -2584,7 +2582,8 @@ body.is-loading #banner:after {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: center; }
+  text-align: center;
+  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("http://codeinstitute.net/wp-content/uploads/2016/06/shutterstock_305443742-copy.jpg"); }
   #main > header h2 {
     font-size: 1.75em;
     margin: 0 0 0.5em 0; }

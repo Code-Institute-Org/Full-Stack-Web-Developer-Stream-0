@@ -1514,12 +1514,13 @@ $baseurl: '{{ site.baseurl }}/images';
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background: 
+			linear-gradient(
+      			rgba(74, 74, 79, 0.4), 
+      			rgba(74, 74, 79, 0.4)
+    		),
+			url("http://codeinstitute.net/wp-content/uploads/2016/07/Classroom.jpg");
 		
-
-		&.after {
-			background-color: #000;
-			opacity: 0.4;
-		}
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
@@ -1714,6 +1715,12 @@ $baseurl: '{{ site.baseurl }}/images';
 			background-repeat: no-repeat;
 			background-size: cover;
 			text-align: center;
+			background: 
+			linear-gradient(
+      			rgba(74, 74, 79, 0.4), 
+      			rgba(74, 74, 79, 0.4)
+    		),
+			url("http://codeinstitute.net/wp-content/uploads/2016/06/shutterstock_305443742-copy.jpg");
 
 			h2 {
 				font-size: 1.75em;
