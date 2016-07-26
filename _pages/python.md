@@ -82,7 +82,10 @@ Follow along with his tutorials. Modify your code. Be curious and get stuck in!
 - [Python Twitter](https://twitter.com/ThePSF)
 
 
-
+<div class="pagination" style="text-align: center;">
+  <a href="/javascript" style="padding: 2.5%;">&larr; Previous</a>
+  <a href="/git" style="padding: 2.5%;">Next &rarr;</a>
+</div>
 
 
 

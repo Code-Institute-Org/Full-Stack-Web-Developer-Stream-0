@@ -170,3 +170,6 @@ Other users can do the same with your public projects, and even spot errors and 
 
 
 
+<div class="pagination" style="text-align: center;">
+  <a href="/python" style="padding: 2.5%;">&larr; Previous</a>
+</div>
