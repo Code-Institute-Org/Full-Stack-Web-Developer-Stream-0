@@ -120,7 +120,7 @@ Windows :   &nbsp;&nbsp;&nbsp;[Notepad++](https://notepad-plus-plus.org/download
   &nbsp;&nbsp;&nbsp;[CSS    Styling Links](https://www.youtube.com/watch?v=2KQx4POL7Xg)
 
 <div class="pagination" style="text-align: center;">
-  <a href="/scratch">Next &rarr;</a>
+  <a href="{{site.data.global.url}}scratch">Next &rarr;</a>
 </div>
 
 

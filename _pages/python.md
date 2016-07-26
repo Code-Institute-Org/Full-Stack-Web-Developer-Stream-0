@@ -83,8 +83,8 @@ Follow along with his tutorials. Modify your code. Be curious and get stuck in!
 
 
 <div class="pagination" style="text-align: center;">
-  <a href="/javascript" style="padding: 2.5%;">&larr; Previous</a>
-  <a href="/git" style="padding: 2.5%;">Next &rarr;</a>
+  <a href="{{site.data.global.url}}javascript" style="padding: 2.5%;">&larr; Previous</a>
+  <a href="{{site.data.global.url}}git" style="padding: 2.5%;">Next &rarr;</a>
 </div>
 
 

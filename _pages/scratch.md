@@ -34,6 +34,6 @@ For many beginners, the seemingly cryptic syntax of languages like JavaScript or
 
 ##  Additional Scratch Resources
 <div class="pagination" style="text-align: center;">
-  <a href="/html-css" style="padding: 2.5%;">&larr; Previous</a>
-  <a href="/javascript" style="padding: 2.5%;">Next &rarr;</a>
+  <a href="{{site.data.global.url}}html-css" style="padding: 2.5%;">&larr; Previous</a>
+  <a href="{{site.data.global.url}}javascript" style="padding: 2.5%;">Next &rarr;</a>
 </div>

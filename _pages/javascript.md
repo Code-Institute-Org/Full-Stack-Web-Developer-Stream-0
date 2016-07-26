@@ -93,6 +93,6 @@ Follow along with his tutorials. Modify your code. Be curious and get stuck in!
   &nbsp;&nbsp;&nbsp;[JavaScript   Initializing Objects](https://www.youtube.com/watch?v=0TL5SRttIs0)
 
 <div class="pagination" style="text-align: center;">
-  <a href="/scratch" style="padding: 2.5%;">&larr; Previous</a>
-  <a href="/python" style="padding: 2.5%;">Next &rarr;</a>
+  <a href="{{site.data.global.url}}scratch" style="padding: 2.5%;">&larr; Previous</a>
+  <a href="{{site.data.global.url}}python" style="padding: 2.5%;">Next &rarr;</a>
 </div>
