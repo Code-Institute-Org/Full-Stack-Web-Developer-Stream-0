@@ -13,11 +13,10 @@ email: your-email@domain.com
 baseurl: "http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/CodersInstitute
+  github: https://github.com/Code-Institute-Org
+  linkedin-square: https://www.linkedin.com/company/5350891?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A5350891%2Cidx%3A2-1-2%2CtarId%3A1469607944987%2Ctas%3Acode%20institute
+  facebook-official: https://www.facebook.com/Code.InstituteIRL/
   #email: /contact/
   #flickr:/
   #instagram:
