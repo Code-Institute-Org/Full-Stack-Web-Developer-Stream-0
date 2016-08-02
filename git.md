@@ -74,8 +74,6 @@ It's a good idea to have an understanding of Git on the command line to apprecia
 
 &nbsp;&nbsp;&nbsp;[Git - Essential Steps & Commands To Get You Up and Running](http://rogerdudler.github.io/git-guide/)
 
-&nbsp;&nbsp;&nbsp;[Git - A More Comprehensive Tutorial](http://gitimmersion.com/)
-
 
 ## Working on GitHub
 
