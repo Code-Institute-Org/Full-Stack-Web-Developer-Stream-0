@@ -28,8 +28,3 @@ So be curious, get stuck in, and enjoy!
 &nbsp;&nbsp;&nbsp;[Python](python.md) - The worlds fastest growing server-side language
 
 &nbsp;&nbsp;&nbsp;[Git & GitHub](git.md) - The worlds most popular version control and social coding network
-
-
-## Important Resources
-
-- [FAQ's](FAQ.md)
