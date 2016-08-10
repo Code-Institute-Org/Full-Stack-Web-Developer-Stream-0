@@ -1851,7 +1851,7 @@ button,
     .spotlight .image img {
       border-radius: 0;
       width: 100%;
-      height: 300px;
+      height: 350px !important;
       display: block;
       width: 100%;
       height: auto; }
@@ -2401,7 +2401,11 @@ body.is-menu-visible #menu {
   overflow: hidden;
   position: relative;
   text-align: center;
-  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("http://codeinstitute.net/wp-content/uploads/2016/07/Classroom.jpg"); }
+  background: linear-gradient(rgba(74, 74, 79, 0.7), rgba(74, 74, 79, 0.7)), url("/assets/shutterstock_325602407.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
   #banner h2 {
     -moz-transform: scale(1);
     -webkit-transform: scale(1);
@@ -2577,17 +2581,20 @@ body.is-loading #banner:after {
 /* Main */
 #main > header {
   padding: 12em 0 10em 0 ;
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("http://codeinstitute.net/wp-content/uploads/2016/06/shutterstock_305443742-copy.jpg");
-  background-size: 100% 100%; }
+  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("/assets/shutterstock_373232755.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
   #main > header h2 {
     font-size: 1.75em;
     margin: 0 0 0.5em 0; }
@@ -2665,10 +2672,10 @@ body.is-mobile #main > header {
 
 /* Landing */
 body.landing #page-wrapper {
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2681,10 +2688,10 @@ body.is-mobile.landing #page-wrapper {
   background: none; }
 body.is-mobile.landing #banner,
 body.is-mobile.landing .wrapper.style4 {
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0//images/banner.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
