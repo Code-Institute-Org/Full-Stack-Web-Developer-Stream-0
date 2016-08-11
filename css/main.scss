@@ -3,6 +3,7 @@
 ---
 
 $baseurl: '{{ site.baseurl }}/images';
+$asseturl: '{{ site.baseurl }}/assets';
 
 @import 'libs/vars';
 @import 'libs/functions';
@@ -985,10 +986,11 @@ $baseurl: '{{ site.baseurl }}/images';
 			img {
 				border-radius: 0;
 				width: 100%;
-				height: 350px !important;
+				height: 100% !important;
 				display: block;
 				width: 100%;
 				height: auto;
+				max-height: 100%;
 			}
 		}
 
@@ -1522,7 +1524,7 @@ $baseurl: '{{ site.baseurl }}/images';
       			rgba(74, 74, 79, 0.7), 
       			rgba(74, 74, 79, 0.7)
     		),
-			url("/assets/shutterstock_325602407.jpg") no-repeat center center fixed;
+			url("#{$asseturl}shutterstock_325602407.jpg") no-repeat center center fixed;
 
 		-webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1728,7 +1730,7 @@ $baseurl: '{{ site.baseurl }}/images';
       			rgba(74, 74, 79, 0.4), 
       			rgba(74, 74, 79, 0.4)
     		),
-			url("/assets/shutterstock_373232755.jpg") no-repeat center center fixed;
+			url("#{$asseturl}shutterstock_373232755.jpg") no-repeat center center fixed;
 
 		-webkit-background-size: cover;
   -moz-background-size: cover;
