@@ -982,6 +982,7 @@ $asseturl: '{{ site.baseurl }}/assets';
 			@include vendor('order', '1');
 			border-radius: 0;
 			width: 40%;
+			min-height: 100% !important;
 
 			img {
 				border-radius: 0;
