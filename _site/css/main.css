@@ -1855,7 +1855,7 @@ button,
       display: block;
       width: 100%;
       height: auto;
-      max-height: 100%; }
+      max-height: 100% !important; }
   .spotlight .content {
     padding: 2em 4em 0.1em 4em ;
     -moz-order: 2;
@@ -2591,11 +2591,17 @@ body.is-loading #banner:after {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/shutterstock_373232755.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
+  			/*background: 
+  			linear-gradient(
+        			rgba(74, 74, 79, 0.4), 
+        			rgba(74, 74, 79, 0.4)
+      		),
+  			url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/shutterstock_373232755.jpg") no-repeat center center fixed;
+  
+  		-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/ }
   #main > header h2 {
     font-size: 1.75em;
     margin: 0 0 0.5em 0; }
