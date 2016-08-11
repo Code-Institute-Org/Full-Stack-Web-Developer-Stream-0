@@ -2402,7 +2402,7 @@ body.is-menu-visible #menu {
   overflow: hidden;
   position: relative;
   text-align: center;
-  background: linear-gradient(rgba(74, 74, 79, 0.7), rgba(74, 74, 79, 0.7)), url("/assetsshutterstock_325602407.jpg") no-repeat center center fixed;
+  background: linear-gradient(rgba(74, 74, 79, 0.7), rgba(74, 74, 79, 0.7)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/shutterstock_325602407.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2591,7 +2591,7 @@ body.is-loading #banner:after {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("/assetsshutterstock_373232755.jpg") no-repeat center center fixed;
+  background: linear-gradient(rgba(74, 74, 79, 0.4), rgba(74, 74, 79, 0.4)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/shutterstock_373232755.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
