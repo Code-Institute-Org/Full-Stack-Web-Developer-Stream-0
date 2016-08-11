@@ -1839,16 +1839,14 @@ button,
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
-  display: flex;
-  min-height: 300px; }
+  display: flex; }
   .spotlight .image {
     -moz-order: 1;
     -webkit-order: 1;
     -ms-order: 1;
     order: 1;
     border-radius: 0;
-    width: 40%;
-    min-height: 100% !important; }
+    width: 40%; }
     .spotlight .image img {
       border-radius: 0;
       width: 100%;
@@ -2404,9 +2402,9 @@ body.is-menu-visible #menu {
   position: relative;
   text-align: center;
   background: linear-gradient(rgba(74, 74, 79, 0.7), rgba(74, 74, 79, 0.7)), url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/shutterstock_325602407.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover; }
   #banner h2 {
     -moz-transform: scale(1);

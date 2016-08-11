@@ -976,13 +976,11 @@ $asseturl: '{{ site.baseurl }}/assets';
 	.spotlight {
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
-		min-height: 300px;
 
 		.image {
 			@include vendor('order', '1');
 			border-radius: 0;
 			width: 40%;
-			min-height: 100% !important;
 
 			img {
 				border-radius: 0;
@@ -1526,11 +1524,10 @@ $asseturl: '{{ site.baseurl }}/assets';
       			rgba(74, 74, 79, 0.7)
     		),
 			url("http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/shutterstock_325602407.jpg") no-repeat center center fixed;
-
-		-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
 		
 
 		h2 {
