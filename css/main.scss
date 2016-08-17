@@ -1434,6 +1434,14 @@ $asseturl: '{{ site.baseurl }}/assets';
 		}
 
 		#nav-mobile {
+
+			@include breakpoint(large) {
+				display: none;
+			}
+
+			@include breakpoint(medium) {
+				display: visible;
+			}
 			
 			height: inherit;
 			line-height: inherit;
