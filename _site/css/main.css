@@ -2378,7 +2378,7 @@ body.is-menu-visible #menu {
     position: absolute;
     right: 0;
     top: 0;
-    background-color: #fff; }
+    background-color: #00f0ff; }
     @media screen and (max-width: 980px) {
       #header #nav {
         display: none;
