@@ -2377,7 +2377,8 @@ body.is-menu-visible #menu {
     line-height: inherit;
     position: absolute;
     right: 0;
-    top: 0; }
+    top: 0;
+    background-color: #fff; }
     @media screen and (max-width: 980px) {
       #header #nav {
         display: none; } }
