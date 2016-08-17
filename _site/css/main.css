@@ -2327,22 +2327,22 @@ body.is-menu-visible #menu {
       @media screen and (max-width: 736px) {
         #header h1 a {
           font-size: 0.8em; } }
-  #header nav {
+  #header #nav-mobile {
     height: inherit;
     line-height: inherit;
     position: absolute;
     right: 0;
     top: 0;
     background-color: #fff; }
-    #header nav > ul {
+    #header #nav-mobile > ul {
       list-style: none;
       margin: 0;
       padding: 0;
       white-space: nowrap; }
-      #header nav > ul > li {
+      #header #nav-mobile > ul > li {
         display: inline-block;
         padding: 0; }
-        #header nav > ul > li > a {
+        #header #nav-mobile > ul > li > a {
           border: 0;
           color: #494a4e;
           display: block;
@@ -2350,10 +2350,10 @@ body.is-menu-visible #menu {
           letter-spacing: 0.225em;
           padding: 0 1.5em;
           text-transform: uppercase; }
-          #header nav > ul > li > a.menuToggle {
+          #header #nav-mobile > ul > li > a.menuToggle {
             outline: 0;
             position: relative; }
-            #header nav > ul > li > a.menuToggle:after {
+            #header #nav-mobile > ul > li > a.menuToggle:after {
               background-image: url("images/bars.svg");
               background-position: right center;
               background-repeat: no-repeat;
@@ -2363,14 +2363,65 @@ body.is-menu-visible #menu {
               vertical-align: top;
               width: 2em; }
             @media screen and (max-width: 736px) {
-              #header nav > ul > li > a.menuToggle {
+              #header #nav-mobile > ul > li > a.menuToggle {
                 padding: 0 1.5em; }
-                #header nav > ul > li > a.menuToggle span {
+                #header #nav-mobile > ul > li > a.menuToggle span {
                   display: none; } }
           @media screen and (max-width: 736px) {
-            #header nav > ul > li > a {
+            #header #nav-mobile > ul > li > a {
               padding: 0 0 0 1.5em; } }
-        #header nav > ul > li:first-child {
+        #header #nav-mobile > ul > li:first-child {
+          margin-left: 0; }
+  #header #nav {
+    height: inherit;
+    line-height: inherit;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #fff; }
+    @media screen and (max-width: 980px) {
+      #header #nav {
+        display: none; } }
+    @media screen and (max-width: 1280px) {
+      #header #nav {
+        display: visible; } }
+    #header #nav > ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      white-space: nowrap; }
+      #header #nav > ul > li {
+        display: inline-block;
+        padding: 0; }
+        #header #nav > ul > li > a {
+          border: 0;
+          color: #494a4e;
+          display: block;
+          font-size: 0.8em;
+          letter-spacing: 0.225em;
+          padding: 0 1.5em;
+          text-transform: uppercase; }
+          #header #nav > ul > li > a.menuToggle {
+            outline: 0;
+            position: relative; }
+            #header #nav > ul > li > a.menuToggle:after {
+              background-image: url("images/bars.svg");
+              background-position: right center;
+              background-repeat: no-repeat;
+              content: '';
+              display: inline-block;
+              height: 3.75em;
+              vertical-align: top;
+              width: 2em; }
+            @media screen and (max-width: 736px) {
+              #header #nav > ul > li > a.menuToggle {
+                padding: 0 1.5em; }
+                #header #nav > ul > li > a.menuToggle span {
+                  display: none; } }
+          @media screen and (max-width: 736px) {
+            #header #nav > ul > li > a {
+              padding: 0 0 0 1.5em; } }
+        #header #nav > ul > li:first-child {
           margin-left: 0; }
   #header.alt {
     background: transparent; }

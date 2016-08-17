@@ -1433,7 +1433,80 @@ $asseturl: '{{ site.baseurl }}/assets';
 			}
 		}
 
-		nav {
+		#nav-mobile {
+			
+			height: inherit;
+			line-height: inherit;
+			position: absolute;
+			right: 0;
+			top: 0;
+			background-color: #fff;
+
+			> ul {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				white-space: nowrap;
+
+				> li {
+					display: inline-block;
+					padding: 0;
+
+					> a {
+						border: 0;
+						color: #494a4e;
+						display: block;
+						font-size: 0.8em;
+						letter-spacing: _size(letter-spacing-alt);
+						padding: 0 1.5em;
+						text-transform: uppercase;
+
+						&.menuToggle {
+							outline: 0;
+							position: relative;
+
+							&:after {
+								background-image: url('images/bars.svg');
+								background-position: right center;
+								background-repeat: no-repeat;
+								content: '';
+								display: inline-block;
+								height: 3.75em;
+								vertical-align: top;
+								width: 2em;
+							}
+
+							@include breakpoint(small) {
+								padding: 0 1.5em;
+
+								span {
+									display: none;
+								}
+							}
+						}
+
+						@include breakpoint(small) {
+							padding: 0 0 0 1.5em;
+						}
+					}
+
+					&:first-child {
+						margin-left: 0;
+					}
+				}
+			}
+		}
+
+		#nav {
+
+			@include breakpoint(medium) {
+				display: none;
+			}
+
+			@include breakpoint(large) {
+				display: visible;
+			}
+
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
