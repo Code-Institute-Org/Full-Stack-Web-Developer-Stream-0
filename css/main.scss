@@ -1321,7 +1321,7 @@ $asseturl: '{{ site.baseurl }}/assets';
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
 		background-color: #494a4e;
-		color: #fff;
+		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
