@@ -2334,6 +2334,12 @@ body.is-menu-visible #menu {
     right: 0;
     top: 0;
     background-color: #fff; }
+    @media screen and (max-width: 1280px) {
+      #header #nav-mobile {
+        display: none; } }
+    @media screen and (max-width: 980px) {
+      #header #nav-mobile {
+        display: visible; } }
     #header #nav-mobile > ul {
       list-style: none;
       margin: 0;

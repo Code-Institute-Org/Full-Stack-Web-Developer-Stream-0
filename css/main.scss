@@ -1442,6 +1442,14 @@ $asseturl: '{{ site.baseurl }}/assets';
 			@include breakpoint(medium) {
 				display: visible;
 			}
+
+			@include breakpoint(small) {
+				display: visible;
+			}
+
+			@include breakpoint(xsmall) {
+				display: visible;
+			}
 			
 			height: inherit;
 			line-height: inherit;
