@@ -1320,8 +1320,8 @@ $asseturl: '{{ site.baseurl }}/assets';
 		@include vendor('transform', 'translateX(20em)');
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
-		background: _palette(accent1, bg);
-		color: _palette(accent1, fg-bold);
+		background-color: #494a4e;
+		color: #fff;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -1447,6 +1447,7 @@ $asseturl: '{{ site.baseurl }}/assets';
 				margin: 0;
 				padding: 0;
 				white-space: nowrap;
+				
 
 				> li {
 					display: inline-block;
@@ -1454,7 +1455,7 @@ $asseturl: '{{ site.baseurl }}/assets';
 
 					> a {
 						border: 0;
-						color: #494a4e;
+						color: #fff;
 						display: block;
 						font-size: 0.8em;
 						letter-spacing: _size(letter-spacing-alt);
@@ -1501,7 +1502,6 @@ $asseturl: '{{ site.baseurl }}/assets';
 
 			@include breakpoint(medium) {
 				display: none;
-				height: 3.25em;
 			}
 
 			@include breakpoint(large) {
@@ -1513,7 +1513,7 @@ $asseturl: '{{ site.baseurl }}/assets';
 			position: absolute;
 			right: 0;
 			top: 0;
-			background-color: #494a4e;
+			
 
 			> ul {
 				list-style: none;
@@ -1991,6 +1991,6 @@ background-size: cover;
 	color: #000;
 }
 
-#menu, #menu > span {
+/*#menu, #menu > span {
 	color: #000 !important;
-}
+}*/
