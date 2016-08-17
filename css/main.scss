@@ -1501,6 +1501,7 @@ $asseturl: '{{ site.baseurl }}/assets';
 
 			@include breakpoint(medium) {
 				display: none;
+				height: 55px;
 			}
 
 			@include breakpoint(large) {
