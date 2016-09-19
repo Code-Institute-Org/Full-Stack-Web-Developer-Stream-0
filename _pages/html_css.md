@@ -29,7 +29,7 @@ as HTML & CSS form the basis of most of our modules and all of professional grad
 
 #### Learn HTML & CSS Fundamentals on your Mobile and Laptop
 > Solo Learn is a free resource that you can use to learn the basics of HTML & CSS programming. 
-Test your self wth quizzes both on your laptop and your mobile. 
+Test your self with quizzes both on your laptop and your mobile. 
 Attain your badges and let us know how you are progressing by mailing your badge links to studentcare@codeinstitute.net
  
  
