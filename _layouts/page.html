@@ -3,10 +3,25 @@ layout: default
 ---
 <article id="main">
 
-  <header>
-    <h2>{{ page.title }}</h2>
+  {% if page.title == "JavaScript" %}
+  <header style="background-image: url('{{site.data.global.url}}assets/javascript-header.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">    
   </header>
-
+  {% elsif page.title == "Quiz" %}
+  <header style="background-image: url('{{site.data.global.url}}assets/quiz-header.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">    
+  </header>
+  {% elsif page.title == "Scratch" %}
+  <header style="background-image: url('{{site.data.global.url}}assets/scratch-header.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">
+  </header>
+  {% elsif page.title == "Git & Github" %}
+  <header style="background-image: url('{{site.data.global.url}}assets/git-header.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">    
+  </header>
+  {% elsif page.title == "Python" %}
+  <header style="background-image: url('{{site.data.global.url}}assets/python-logo-1.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">    
+  </header>
+  {% elsif page.title == "HTML5 & CSS3" %}
+  <header style="background-image: url('{{site.data.global.url}}assets/html-css-header.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">    
+  </header>
+  {% endif %}
   <section class="wrapper style5">
     <div class="inner">
       {{ content }}

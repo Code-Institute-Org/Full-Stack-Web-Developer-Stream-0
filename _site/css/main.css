@@ -2334,6 +2334,9 @@ body.is-menu-visible #menu {
     right: 0;
     top: 0;
     background-color: #fff; }
+    @media screen and (max-width: 980px) {
+      #header #nav-mobile {
+        display: visible; } }
     #header #nav-mobile > ul {
       list-style: none;
       margin: 0;
@@ -2346,7 +2349,8 @@ body.is-menu-visible #menu {
           border: 0;
           color: #fff;
           display: block;
-          font-size: 0.8em;
+          font-size: 0.7em;
+          font-weight: bold;
           letter-spacing: 0.225em;
           padding: 0 1.5em;
           text-transform: uppercase; }
@@ -2395,9 +2399,10 @@ body.is-menu-visible #menu {
         padding: 0; }
         #header #nav > ul > li > a {
           border: 0;
-          color: #494a4e;
+          color: #4E4852;
           display: block;
-          font-size: 0.8em;
+          font-size: 0.7em;
+          font-weight: bold;
           letter-spacing: 0.225em;
           padding: 0 1.5em;
           text-transform: uppercase; }
@@ -2632,14 +2637,6 @@ body.is-loading #banner:after {
 /* Main */
 #main > header {
   padding: 12em 0 10em 0 ;
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-attachment: fixed;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
   text-align: center;
   			/*background: 
   			linear-gradient(
@@ -2759,7 +2756,7 @@ img {
   float: right; }
 
 #scratch-img > img {
-  width: 100%; }
+  width: 50%; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #e84610; }

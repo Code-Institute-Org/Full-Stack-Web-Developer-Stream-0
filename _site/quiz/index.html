@@ -16,12 +16,13 @@ Full Stack Web Developer
 Stream Zero
 ">
   <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="canonical" href="/quiz/">
+  <link rel="shortcut icon" type="image/png" href="http://127.0.0.1:4000/assets/favicon.png"/>
+  <link rel="canonical" href="http://127.0.0.1:4000//quiz/">
   <link rel="stylesheet" href="/css/main.css" />
   <link rel="stylesheet" href="/css/font-mfizz-2.3.0/font-mfizz.css" />
   <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
-  <link rel="alternate" type="application/rss+xml" title="Code Institute" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Code Institute" href="http://127.0.0.1:4000//feed.xml">
 </head>
 
 
@@ -32,19 +33,20 @@ Stream Zero
 
       <!-- Header -->
 <header id="header">
-  <h1><a href=""><img src="assets/new_ci_logo.png" class="logo"/></a></h1>
+  <h1><a href=""><img src="http://127.0.0.1:4000/assets/new_ci_logo.png" class="logo"/></a></h1>
   <nav id="nav-mobile">
     <ul>
       <li class="special">
         <a href="#menu" class="menuToggle"><span>Menu</span></a>
         <div id="menu">
           <ul>
-            <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/">Home</a></li>
-            <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/html-css">HTML &amp; CSS</a></li>
-            <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/scratch">Scratch</a></li>
-            <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/javascript">JavaScript</a></li>
-            <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/python">Python</a></li>
-            <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/git">Git &amp; Github</a></li>
+            <li><a href="http://127.0.0.1:4000/">Home</a></li>
+            <li><a href="http://127.0.0.1:4000/html-css">HTML &amp; CSS</a></li>
+            <li><a href="http://127.0.0.1:4000/scratch">Scratch</a></li>
+            <li><a href="http://127.0.0.1:4000/javascript">JavaScript</a></li>
+            <li><a href="http://127.0.0.1:4000/python">Python</a></li>
+            <li><a href="http://127.0.0.1:4000/git">Git &amp; Github</a></li>
+            <li><a href="http://127.0.0.1:4000/quiz">Quiz</a></li>
           </ul>
         </div>
       </li>
@@ -52,12 +54,13 @@ Stream Zero
   </nav>
   <nav id="nav">
     <ul>
-      <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/">Home</a></li>
-      <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/html-css">HTML &amp; CSS</a></li>
-      <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/scratch">Scratch</a></li>
-      <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/javascript">JavaScript</a></li>
-      <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/python">Python</a></li>
-      <li><a href="http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/git">Git &amp; Github</a></li>
+      <li><a href="http://127.0.0.1:4000/">Home</a></li>
+      <li><a href="http://127.0.0.1:4000/html-css">HTML &amp; CSS</a></li>
+      <li><a href="http://127.0.0.1:4000/scratch">Scratch</a></li>
+      <li><a href="http://127.0.0.1:4000/javascript">JavaScript</a></li>
+      <li><a href="http://127.0.0.1:4000/python">Python</a></li>
+      <li><a href="http://127.0.0.1:4000/git">Git &amp; Github</a></li>
+      <li><a href="http://127.0.0.1:4000/quiz">Quiz</a></li>
     </ul>
   </nav>
 </header>
@@ -65,13 +68,29 @@ Stream Zero
 
       <article id="main">
 
-  <header>
-    <h2>Quiz</h2>
+  
+  <header style="background-image: url('http://127.0.0.1:4000/assets/quiz-header.png'); background-repeat:no-repeat; background-position: 0% 0%; background-size: 100% 100%;">    
   </header>
-
+  
   <section class="wrapper style5">
     <div class="inner">
-      <iframe src="https://www.classmarker.com/online-test/start/?quiz=tjb57ac950ce5b41&iframe=1" frameborder="0" style="width:100%;max-width:100%;" height="800"></iframe>
+      <aside class="left" style="float:left; width:50%;">
+    <h5>Welcome to our Stream Zero Quiz</h5>
+    <p>Think you're ready for our intense bootcamp?<br />
+        There's just one more step before you start!
+    </p>
+    <p>All you have to do is pass this quiz.<br/>
+        Don't worry if you fail first time around.<br/>
+        You'll get feedback & a chance to try again.
+    </p>
+    
+</aside>
+<article class="right" style="float: right;width: 50%;">
+    <iframe src="https://www.classmarker.com/online-test/start/?quiz=tjb57ac950ce5b41&iframe=1" frameborder="0" style="width:100%;height:600px;"></iframe>
+</article>
+
+<div style="clear:both;">
+</div>
     </div>
   </section>
 
@@ -79,7 +98,7 @@ Stream Zero
 
 
       <!-- Footer -->
-<footer id="footer">
+<footer id="footer" style="clear:both;">
   <ul class="icons">
     
     
