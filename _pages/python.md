@@ -15,7 +15,7 @@ permalink: /python/
  Attain your badges and let us know how you are progressing by mailing your badge links to studentcare@codeinstitute.net
  
  - [Learn Python on your Laptop](http://www.sololearn.com/Course/Python/)
- - [Learn Python on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.csstrial&hl=en)
+ - [Learn Python on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.python&hl=en)
  
  
 #### Useful Online Editor  
