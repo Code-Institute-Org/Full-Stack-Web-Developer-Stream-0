@@ -119,7 +119,7 @@ Other users can do the same with your public projects, and even spot errors and 
 
 ### Git References 
 
-&nbsp;&nbsp;&nbsp;[Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+&nbsp;&nbsp;&nbsp;[Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 &nbsp;&nbsp;&nbsp;[Git Interactive Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;)
 
