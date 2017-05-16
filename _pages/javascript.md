@@ -16,7 +16,7 @@ Attain your badges and let us know how you are progressing by mailing your badge
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Learn JavaScript on your Laptop](http://www.sololearn.com/Course/JavaScript/)
  
- &nbsp;&nbsp;&nbsp;[Learn JavaScript on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.javascript&hl=en)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Learn JavaScript on your Mobile](https://play.google.com/store/apps/details?id=com.sololearn.javascript&hl=en)
  
  
 #### Useful Online Editor
@@ -29,7 +29,7 @@ Attain your badges and let us know how you are progressing by mailing your badge
 ## JavaScript Fundamentals   Additional Materials
 ### Quick References
 
-  &nbsp;&nbsp;&nbsp;[JavaScript Cheat Sheet](http://www.cheat sheets.org/saved copy/jsquick.pdf)
+  &nbsp;&nbsp;&nbsp;[JavaScript Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/)
 
 
 
